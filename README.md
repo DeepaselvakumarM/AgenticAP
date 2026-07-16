@@ -86,6 +86,21 @@ The project follows a simple full-stack structure:
 - Real-time updates: Socket.IO powers live notifications and UI updates
 - Data flow: the frontend calls REST endpoints from the backend, while shared UI state and notifications are managed locally with Zustand and React Query
 
+## Mock Data
+
+The application ships with sample mock data for demonstration purposes.
+
+Included datasets:
+
+10 Sample Invoices
+10 Sample Vendors
+10 Sample Notifications
+
+Mock data location:
+
+backend/src/data/store.ts
+
+
 ## Useful Scripts
 
 ### Frontend
