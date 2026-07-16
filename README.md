@@ -100,6 +100,26 @@ Mock data location:
 
 backend/src/data/store.ts
 
+## Technology Stack
+### Frontend
+React
+TypeScript
+Vite
+Tailwind CSS
+shadcn/ui
+TanStack Query (React Query)
+Axios
+Zustand
+Recharts
+Socket.IO Client
+React Router
+
+### Backend
+Node.js
+Express.js
+TypeScript
+Socket.IO
+CORS
 
 ## Useful Scripts
 
